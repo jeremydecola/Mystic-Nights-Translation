@@ -1,13 +1,10 @@
 # Mystic Nights (PS2) English Translation 
 
 Mystic Nights (미스틱 나이츠) is an obscure Korean-Exclusive survival horror Playstation 2 title.
-
 It was developed by N-Log Corporation and published by Sony Computer Entertainment of Korea in 2005.
-
 Although a North-America release was planned, Sony mysteriously pulled the plug.
 
 Little is known about this game and it is extremely difficult to track down, even in Korea.
-
 As a big fan of the survival horror genre, I took it upon myself to translate the title in hopes that it reaches a wider audience.
 
 I hope you enjoy!
