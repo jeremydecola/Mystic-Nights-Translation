@@ -33,3 +33,10 @@ The game's warning screen graphics are included in the "company" resource file (
 10) Click on "Rebuild LBA"
 
 Congratulations. xpert should have generated a new .iso image complete with my English translation!
+
+## *PROGRESS*
+
+### 0.1.0
+* TEXT: 95% COMPLETE ~ UNTRANSLATED PORTIONS ARE BEING INTERPRETED BY A NATIVE SPEAKER.
+* ITEMS: 0% COMPLETE
+* PLAYTEST UNDERWAY
