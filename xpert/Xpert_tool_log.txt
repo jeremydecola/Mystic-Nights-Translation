@@ -1,0 +1,293 @@
+
+
+Date: [06/06/2019]
+******************
+09:10:50 - [1. Extract LBA] 
+09:10:51 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+09:10:52 - Extracting LBA done 
+09:10:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS.ISO-LSN.TXT
+
+Date: [06/06/2019]
+******************
+09:12:55 - [1. Extract LBA] 
+09:12:55 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+09:12:56 - Extracting LBA done 
+09:12:56 - C:\USERS\JEREM\DESKTOP\MYSTIC NIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+09:12:59 - [2. Extract File]
+09:12:59 - C:\USERS\JEREM\DESKTOP\MYSTIC NIGHTS\MYSTICNIGHTS.ISO
+
+Date: [06/06/2019]
+******************
+09:29:48 - [1. Extract LBA] 
+09:29:48 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+09:29:50 - Extracting LBA done 
+09:29:50 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+09:29:55 - [2. Extract File]
+09:29:55 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+09:33:38 - Extracting FILES done
+09:33:38 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+09:33:38 - 724 File(s) Size : 1693463895 bytes
+
+Date: [09/06/2019]
+******************
+10:26:42 - [1. Extract LBA] 
+10:26:42 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+10:26:43 - Extracting LBA done 
+10:26:43 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+10:26:48 - [2. Extract File]
+10:26:48 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+10:30:38 - Extracting FILES done
+10:30:38 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+10:30:38 - 724 File(s) Size : 1693463895 bytes
+10:32:57 - [3. Rebuild File]
+10:32:57 - Please Wait..Calculating File(s) Size 
+10:32:57 - 724 File(s) 1696516096 bytes
+10:33:52 - Rebuilding FILES done
+10:33:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+10:33:52 - File Size : 1696516096 bytes
+10:33:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+10:34:06 - [4. Rebuild LBA]
+10:34:06 - Rebuilding LBA done
+10:34:06 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [09/06/2019]
+******************
+11:57:56 - [1. Extract LBA] 
+11:57:56 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+11:57:57 - Extracting LBA done 
+11:57:57 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+11:58:00 - [2. Extract File]
+11:58:00 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+12:02:36 - Extracting FILES done
+12:02:36 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+12:02:36 - 724 File(s) Size : 1693463895 bytes
+12:03:25 - [3. Rebuild File]
+12:03:25 - Please Wait..Calculating File(s) Size 
+12:03:25 - 724 File(s) 1696516096 bytes
+12:04:31 - Rebuilding FILES done
+12:04:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+12:04:31 - File Size : 1696516096 bytes
+12:04:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+12:04:36 - [4. Rebuild LBA]
+12:04:37 - Rebuilding LBA done
+12:04:37 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [09/06/2019]
+******************
+02:19:41 - [1. Extract LBA] 
+02:19:41 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+02:19:43 - Extracting LBA done 
+02:19:43 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+02:19:46 - [2. Extract File]
+02:19:46 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+02:24:57 - Extracting FILES done
+02:24:57 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+02:24:57 - 724 File(s) Size : 1693463895 bytes
+02:25:45 - [3. Rebuild File]
+02:25:45 - Please Wait..Calculating File(s) Size 
+02:25:45 - 724 File(s) 1696516096 bytes
+02:26:59 - Rebuilding FILES done
+02:26:59 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+02:26:59 - File Size : 1696516096 bytes
+02:26:59 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+02:27:03 - [4. Rebuild LBA]
+02:27:04 - Rebuilding LBA done
+02:27:04 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [09/06/2019]
+******************
+10:47:10 - [1. Extract LBA] 
+10:47:10 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+10:47:11 - Extracting LBA done 
+10:47:11 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+10:47:14 - [2. Extract File]
+10:47:14 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+10:53:04 - Extracting FILES done
+10:53:04 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+10:53:04 - 724 File(s) Size : 1693463895 bytes
+11:01:34 - [3. Rebuild File]
+11:01:34 - Please Wait..Calculating File(s) Size 
+11:01:34 - 724 File(s) 1696516096 bytes
+11:02:31 - Rebuilding FILES done
+11:02:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+11:02:31 - File Size : 1696516096 bytes
+11:02:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+11:04:36 - [4. Rebuild LBA]
+11:04:36 - Rebuilding LBA done
+11:04:36 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [09/06/2019]
+******************
+11:23:03 - [1. Extract LBA] 
+11:23:03 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+11:23:05 - Extracting LBA done 
+11:23:05 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+11:23:08 - [2. Extract File]
+11:23:08 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+11:28:37 - Extracting FILES done
+11:28:37 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+11:28:37 - 724 File(s) Size : 1693463895 bytes
+11:29:29 - [3. Rebuild File]
+11:29:29 - Please Wait..Calculating File(s) Size 
+11:29:29 - 724 File(s) 1696516096 bytes
+11:30:32 - Rebuilding FILES done
+11:30:32 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+11:30:32 - File Size : 1696516096 bytes
+11:30:32 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+11:33:32 - [4. Rebuild LBA]
+11:33:33 - Rebuilding LBA done
+11:33:33 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [10/06/2019]
+******************
+12:52:20 - [1. Extract LBA] 
+12:52:20 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+12:52:21 - Extracting LBA done 
+12:52:21 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+12:52:24 - [2. Extract File]
+12:52:24 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+12:56:00 - Extracting FILES done
+12:56:00 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+12:56:00 - 724 File(s) Size : 1693463895 bytes
+12:58:34 - [3. Rebuild File]
+12:58:34 - Please Wait..Calculating File(s) Size 
+12:58:34 - 724 File(s) 1696516096 bytes
+12:59:31 - Rebuilding FILES done
+12:59:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+12:59:31 - File Size : 1696516096 bytes
+12:59:31 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+12:59:53 - [4. Rebuild LBA]
+12:59:54 - Rebuilding LBA done
+12:59:54 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [10/06/2019]
+******************
+01:51:30 - [1. Extract LBA] 
+01:51:30 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+01:51:32 - Extracting LBA done 
+01:51:32 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+01:51:35 - [2. Extract File]
+01:51:35 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+01:56:03 - Extracting FILES done
+01:56:03 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+01:56:03 - 724 File(s) Size : 1693463895 bytes
+02:03:25 - [3. Rebuild File]
+02:03:25 - Please Wait..Calculating File(s) Size 
+02:03:25 - 724 File(s) 1696516096 bytes
+02:04:40 - Rebuilding FILES done
+02:04:40 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+02:04:40 - File Size : 1696516096 bytes
+02:04:40 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+02:05:13 - [4. Rebuild LBA]
+02:05:14 - Rebuilding LBA done
+02:05:14 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [10/06/2019]
+******************
+02:15:34 - [1. Extract LBA] 
+02:15:34 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+02:15:36 - Extracting LBA done 
+02:15:36 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+02:15:38 - [2. Extract File]
+02:15:38 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+02:21:31 - Extracting FILES done
+02:21:31 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+02:21:31 - 724 File(s) Size : 1693463895 bytes
+02:22:28 - [3. Rebuild File]
+02:22:28 - Please Wait..Calculating File(s) Size 
+02:22:28 - 724 File(s) 1696516096 bytes
+02:24:34 - Rebuilding FILES done
+02:24:34 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+02:24:34 - File Size : 1696516096 bytes
+02:24:34 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+02:24:57 - [4. Rebuild LBA]
+02:24:57 - Rebuilding LBA done
+02:24:57 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [10/06/2019]
+******************
+02:32:10 - [1. Extract LBA] 
+02:32:10 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+02:32:12 - Extracting LBA done 
+02:32:12 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+02:32:14 - [2. Extract File]
+02:32:14 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+02:35:49 - Extracting FILES done
+02:35:49 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+02:35:49 - 724 File(s) Size : 1693463895 bytes
+02:37:43 - [3. Rebuild File]
+02:37:43 - Please Wait..Calculating File(s) Size 
+02:37:44 - 724 File(s) 1696516096 bytes
+02:38:41 - Rebuilding FILES done
+02:38:41 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+02:38:41 - File Size : 1696516096 bytes
+02:38:41 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+02:39:52 - [4. Rebuild LBA]
+02:39:52 - Rebuilding LBA done
+02:39:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [11/06/2019]
+******************
+12:09:12 - [1. Extract LBA] 
+12:09:12 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+12:09:13 - Extracting LBA done 
+12:09:13 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+12:09:17 - [2. Extract File]
+12:09:17 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+12:13:05 - Extracting FILES done
+12:13:05 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+12:13:05 - 724 File(s) Size : 1693463895 bytes
+12:13:58 - [3. Rebuild File]
+12:13:58 - Please Wait..Calculating File(s) Size 
+12:13:58 - 724 File(s) 1696516096 bytes
+12:14:56 - Rebuilding FILES done
+12:14:56 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+12:14:56 - File Size : 1696516096 bytes
+12:14:56 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+12:14:59 - [4. Rebuild LBA]
+12:14:59 - Rebuilding LBA done
+12:14:59 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [12/06/2019]
+******************
+10:18:03 - [1. Extract LBA] 
+10:18:03 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+10:18:04 - Extracting LBA done 
+10:18:04 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+10:18:07 - [2. Extract File]
+10:18:07 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+10:21:58 - Extracting FILES done
+10:21:58 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+10:21:58 - 724 File(s) Size : 1693463895 bytes
+10:22:49 - [3. Rebuild File]
+10:22:49 - Please Wait..Calculating File(s) Size 
+10:22:49 - 724 File(s) 1696516096 bytes
+10:23:52 - Rebuilding FILES done
+10:23:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+10:23:52 - File Size : 1696516096 bytes
+10:23:52 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+10:23:59 - [4. Rebuild LBA]
+10:23:59 - Rebuilding LBA done
+10:23:59 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [24/06/2019]
+******************
+05:29:19 - [1. Extract LBA] 
+05:29:19 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+05:29:21 - Extracting LBA done 
+05:29:21 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-LSN.TXT
+05:29:23 - [2. Extract File]
+05:29:23 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO
+05:33:49 - Extracting FILES done
+05:33:49 - Location: All in C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\@MYSTICNIGHTS.ISO
+05:33:49 - 724 File(s) Size : 1693463895 bytes
+05:34:50 - [3. Rebuild File]
+05:34:50 - Please Wait..Calculating File(s) Size 
+05:34:50 - 724 File(s) 1696516096 bytes
+05:36:01 - Rebuilding FILES done
+05:36:01 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO
+05:36:01 - File Size : 1696516096 bytes
+05:36:01 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\MYSTICNIGHTS.ISO-relink-LSN.TXT
+05:36:24 - [4. Rebuild LBA]
+05:36:24 - Rebuilding LBA done
+05:36:24 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched

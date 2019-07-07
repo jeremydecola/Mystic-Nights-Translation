@@ -1,0 +1,104 @@
+PS2_24_Gamedata_1_BIN.epi 
+[ PS2 24 GAMEDATA *.1 *.BIN ]
+bigfile = gamedata.1
+
+PS2_24_GameData_Group_TOC.epi 
+[ PS2 24 GAMEDATA Group TOC *.TOC ]
+bigfile = movies_0.group.toc
+tablefile = movies_0.group.toc
+both files must be the same.
+
+
+PS2_THP8_PF_PD_HDP_1.01.epi
+[ PS2 Tony Hawk's [*PF] [*PD] *.HDP|*.HDP ]
+          3 files is needed,
+
+         DATAP.HED-relink-LBA.TXT
+         DATAPF.HDP
+         DATAPD.HDP
+=========================================
+         MUSICP.HED-relink-LBA.TXT
+         MUSICPF.HDP
+         MUSICPD.HDP
+=========================================
+         STREAMP.HED-relink-LBA.TXT
+         STREAMPF.HDP
+         STREAMPD.HDP
+
+         patch DATAPD.HDP
+           1. run the xpert tool
+           2. select DATAPD.HDP on both path(Big File and Table File)
+           3. click Extract LBA button ,After Extracting LBA , Click OK button
+           4. click Rebuild LBA button, and click done message box OK button
+           5. all done, patched NEW-DATAPD.HDP
+
+         patch DATAPF.HDP
+           1. run the xpert tool
+           2. select DATAPF.HDP on both path(Big File and Table File)
+           3. click Extract LBA button ,After Extracting LBA, Click OK button
+           4. click Rebuild LBA button, and click done message box OK button
+           5. all done, patched NEW-DATAPF.HDP
+
+PS2_Generic_DAV_SW3_PS2PAK_HSH_PK2.epi 
+[ PS2 Generic_DVC_SWE3_PS2PAK*.HSH|*.PK2 ]
+        tablefile - PS2PAK.HSH
+        bigfile - PS2PAK_0.PK2, PS2PAK_1.PK2
+        just select tablefile PS2PAK.HSH
+        bigfile - PS2PAK_0.PK2
+        this plugin after rebuild it will become 1 bigfile NEW-PS2PAK_0.PK2
+
+psp_MGS_Digital_Graphic_Novel_idx_img.epi
+[ psp MGS Digital Graphic Novel *.idx|*.img  ]
+       
+------------------------------------------------------------------------------------------------------------
+       Open notepad, enter the text without the [] [copy /b "cdimg0.img" + "cdimg1.img" old-cdimg0.img]
+       then save as mgsdgs-join.bat in the folder PSP_GAME\USRDIR  with your cdimg0.img and cdimg1.img files
+       after run the mgsdgs-join.bat, old-cdimg0.img file will be about 1.45 GB (1,561,296,896 bytes),
+       and replace cdimg1.img with dummy file(0 byte)
+       
+       tablefile - cdimg.idx
+       bigfile - old-cdimg0.img
+       
+       after done Rebuild LBA, delete both cdimg.idx , old-cdimg0.img
+       Rename NEW-cdimg.idx to cdimg.idx and Rename new-old-cdimg0.img to cdimg0.img
+-------------------------------------------------------------------------------------------------------------      
+
+psp_Katamari_Damacy_Strbody_bin_v2.0.epi  
+[ psp Katamari Damacy Strbody_v2.0 *.BIN ]
+         for STRBODY.BIN
+
+         1) Extract LBA
+         2) Extract FILE
+         3) Rebuild FILE
+         open STRBODY.BIN-relink-LBA.TXT with WordPad 
+00000000|01142800|00000000|65696E67|file000000_M00_SELECT.wav.wav
+01142800|00291800|01142800|65696E67|file000001_M01_LOAD.wav.wav
+013D4000|0076D800|013D4000|65696E67|file000002_M02_TITLE.wav.wav
+01B41800|007E7800|01B41800|65696E67|file000003_M03_KING_L.wav.wav
+02329000|00D4B800|02329000|65696E67|file000004_M04_VIEW.wav.wav
+03074800|01028800|03074800|65696E67|file000005_M05_COLLECTION.w.wav
+0409D000|00502800|0409D000|65696E67|file000006_M07_MEMORY.wav.wav
+0459F800|00D8C800|0459F800|65696E67|file000007_M08_RESULT_MAOK..wav
+0532C000|0062E800|0532C000|65696E67|file000008_M10_GAMEOVER.wav.wav
+0595A800|01AB2800|0595A800|65696E67|file000009_M11_KT1BGM.wav.wav
+0740D000|00F76800|0740D000|65696E67|file000010_M12_KT1BGM.wav.wav
+.....
+for example if you to dummy the 2 wav file,then you replace 65696E67 with 00000000
+00000000|01142800|00000000|65696E67|file000000_M00_SELECT.wav.wav
+01142800|00291800|01142800|65696E67|file000001_M01_LOAD.wav.wav
+013D4000|0076D800|013D4000|65696E67|file000002_M02_TITLE.wav.wav
+01B41800|007E7800|01B41800|65696E67|file000003_M03_KING_L.wav.wav
+02329000|00D4B800|02329000|65696E67|file000004_M04_VIEW.wav.wav
+03074800|01028800|03074800|65696E67|file000005_M05_COLLECTION.w.wav
+0409D000|00502800|0409D000|65696E67|file000006_M07_MEMORY.wav.wav
+0459F800|00D8C800|0459F800|65696E67|file000007_M08_RESULT_MAOK..wav
+0532C000|0062E800|0532C000|65696E67|file000008_M10_GAMEOVER.wav.wav
+0595A800|01AB2800|0595A800|00000000|file000009_M11_KT1BGM.wav.wav
+0740D000|00F76800|0740D000|00000000|file000010_M12_KT1BGM.wav.wav
+.....
+and save it.
+      4) Rebuild LBA
+      5)you will get the same size but 2 wav files dummy NEW-STRBODY.BIN
+
+
+
