@@ -10,10 +10,10 @@ I hope you enjoy!
 
 ## Prerequisites
 
-*A copy of the Mystic Nights disc image (.iso) 
-*xpert PS2/PSP .iso extraction/rebuilding tool
-*SUBSYS.RES
-*COMPANY.RES
+* A copy of the Mystic Nights disc image (.iso) 
+* xpert PS2/PSP .iso extraction/rebuilding tool
+* SUBSYS.RES
+* COMPANY.RES
 
 ## Instructions
 
