@@ -36,6 +36,11 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.1.1
+* TEXT: 99% COMPLETE ~ Translation revised. Missing words and punctuation. Genetics Lab > GH Storage Room.
+* ITEMS: 0% COMPLETE
+* PLAYTEST UNDERWAY
+
 ### 0.1.0
 * TEXT: 95% COMPLETE ~ UNTRANSLATED PORTIONS ARE BEING INTERPRETED BY A NATIVE SPEAKER.
 * ITEMS: 0% COMPLETE
