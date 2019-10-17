@@ -36,6 +36,11 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.1.3
+* TEXT: 100% COMPLETE 
+* ITEMS: 50% COMPLETE
+* SYSTEM/MENUS: 1% COMPLETE
+
 ### 0.1.2
 * TEXT: 100% COMPLETE 
 * ITEMS: 0% COMPLETE
