@@ -3,7 +3,8 @@ import os
 
 text = False
 results = []
-path = input("Enter search path : ")
+#path = input("Enter search path : ")
+path = "C:/Users/jerem/Desktop/MysticNights/@MYSTICNIGHTS.ISO"
 target = input("Enter search target : ")
 b_euckor = target.encode('euc-kr')
 b_utf8 = target.encode('utf-8')
