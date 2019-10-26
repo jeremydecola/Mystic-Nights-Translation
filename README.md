@@ -2,7 +2,7 @@
 
 Mystic Nights (미스틱 나이츠) is an obscure Korean-Exclusive survival horror Playstation 2 title.
 It was developed by N-Log Corporation and published by Sony Computer Entertainment of Korea in 2005.
-Although a North-America release was planned, Sony mysteriously pulled the plug.
+Although a North-American release was planned, Sony mysteriously pulled the plug.
 
 Little is known about this game and it is extremely difficult to track down, even in Korea.
 As a big fan of the survival horror genre, I took it upon myself to translate the title in hopes that it reaches a wider audience.
@@ -13,8 +13,11 @@ I hope you enjoy!
 
 * A copy of the Mystic Nights disc image (.iso) 
 * xpert PS2/PSP .iso extraction/rebuilding tool
-* SUBSYS.RES
-* COMPANY.RES
+* SCKA_200.55 (mapping, menu and system messages)
+* SUBSYS.RES (dialogue, item names, item descriptions)
+* COMPANY.RES (warning screen)
+* DOCUMENT.RES and ITEM.RES (item and document text)
+* ST01-03/ and ST04-07/ (level-specific item mapping)
 
 ## Instructions
 
@@ -37,21 +40,21 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 ## *PROGRESS*
 
 ### 0.2.2
-COMPLETED ITEM TRANSLATION
+COMPLETED ITEM TRANSLATION. LEVEL MAPPING UNDERWAY. 
 * TEXT: 100% COMPLETE 
 * ITEMS: 100% COMPLETE
 * SYSTEM/MENUS: 5% COMPLETE 
 * SCENE FILE MAPPING COMPLETE FOR: Medkit, Vest, Serum, Blade, Pistol, Rifle, Shot, Mag, MEL Key, 2F Map, Central Key Card.
 
 ### 0.2.1
-REORGANIZED REPOSITORY AND SCENE MAPPING
+REORGANIZED REPOSITORY. BEGAN LEVEL MAPPING.
 * TEXT: 100% COMPLETE 
 * ITEMS: 50% COMPLETE
 * SYSTEM/MENUS: 5% COMPLETE 
 * SCENE FILE MAPPING COMPLETE FOR: Medkit, Vest, Serum, Blade, Pistol, Rifle, Shot, Mag, MEL Key, 2F Map, Central Key Card.
 
 ### 0.2.0
-FINAL COVER ART FOR GAME COMPLETE
+FINAL COVER ART FOR GAME COMPLETE.
 * TEXT: 100% COMPLETE 
 * ITEMS: 50% COMPLETE
 * SYSTEM/MENUS: 5% COMPLETE 
@@ -59,14 +62,14 @@ FINAL COVER ART FOR GAME COMPLETE
 * DISCOVERED MAPPING MECHANISM WITH SCENE RESOURCE FILES. 
 
 ### 0.1.3
-BROKEN
+BROKEN. 
 * TEXT: 100% COMPLETE 
 * ITEMS: 50% COMPLETE
 * SYSTEM/MENUS: 1% COMPLETE
 * ITEM MAPPING BROKEN!
 
 ### 0.1.2
-DIALOGUE TRANSLATION COMPLETE
+DIALOGUE TRANSLATION COMPLETE.
 * TEXT: 100% COMPLETE 
 * ITEMS: 0% COMPLETE
 * SYSTEM/MENUS: 1% COMPLETE
