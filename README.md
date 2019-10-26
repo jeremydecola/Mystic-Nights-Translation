@@ -36,6 +36,13 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.2.2
+COMPLETED ITEM TRANSLATION
+* TEXT: 100% COMPLETE 
+* ITEMS: 100% COMPLETE
+* SYSTEM/MENUS: 5% COMPLETE 
+* SCENE FILE MAPPING COMPLETE FOR: Medkit, Vest, Serum, Blade, Pistol, Rifle, Shot, Mag, MEL Key, 2F Map, Central Key Card.
+
 ### 0.2.1
 REORGANIZED REPOSITORY AND SCENE MAPPING
 * TEXT: 100% COMPLETE 
