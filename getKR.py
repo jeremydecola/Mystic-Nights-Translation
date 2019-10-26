@@ -1,14 +1,20 @@
 import re
 
-text = []
 with open('C:/Users/jerem/Desktop/MN_Translation/Mystic-Nights-Translation/SUBSYS.RES','rb') as data: #open file filename in read mode
     buffer = data.read()#read content
+with open('C:/Users/jerem/Desktop/MN_Translation/DOC.RES','rb') as datad:
+    buffer2 = datad.read()# read content
+with open('C:/Users/jerem/Desktop/MN_Translation/ITM.RES', 'rb') as datai:
+    buffer3 = datai.read()  # read content
 
 text = re.findall(b'\x20\x54\x45\x58\x54\x20\x22(.*)\x22', buffer, re.MULTILINE)
 item_lists = re.findall(b'\x49\x54\x45\x4D\x5F\x4C\x49\x53\x54\x20\x22(.*)\x22', buffer, re.MULTILINE)
 item_names = re.findall(b'\x4E\x41\x4D\x45\x20\x22(.*)\x22', buffer, re.MULTILINE)
 item_desc = re.findall(b'\x44\x45\x53\x43\x52\x49\x50\x54\x49\x4F\x4E\x20\x22(.*)\x22', buffer, re.MULTILINE)
 item_use = re.findall(b'\x55\x53\x45\x5F\x4D\x45\x53\x53\x41\x47\x45(.*)\x2E', buffer, re.MULTILINE)
+doc_text = re.findall(b'\x22(.*)\x22', buffer2, re.MULTILINE)
+itm_text = re.findall(b'\x22(.*)\x22', buffer3, re.MULTILINE)
+print(doc_text.__len__())
 
 print ("DECODING...")
 
@@ -22,10 +28,13 @@ for i in range(len(item_desc)):
   item_desc[i] = item_desc[i].decode('euc-kr')
 for i in range(len(item_use)):
   item_use[i] = item_use[i].decode('euc-kr')
+for i in range(len(doc_text)):
+  doc_text[i] = doc_text[i].decode('euc-kr')
+for i in range(len(itm_text)):
+  itm_text[i] = itm_text[i].decode('euc-kr')
 
 print("DECODING COMPLETE.\nEXPORTING TO LOGS...")
 
-b'\x4E\x41\x4D\x45\x20\x22(.*)\x22'
 with open('C:/Users/jerem/Desktop/MN_Translation/fulltext.txt', 'w', encoding='euc-kr') as f:
     for item in text:
         f.write("%s\n" % item)
@@ -41,5 +50,11 @@ with open('C:/Users/jerem/Desktop/MN_Translation/fullitems.txt', 'w', encoding='
         f.write("%s\n" % item)
     for item in item_use:
         f.write("ITEM USE: ")
+        f.write("%s\n" % item)
+with open('C:/Users/jerem/Desktop/MN_Translation/doclist.txt', 'w', encoding='euc-kr') as f:
+    for item in doc_text:
+        f.write("%s\n" % item)
+with open('C:/Users/jerem/Desktop/MN_Translation/itemreslist.txt', 'w', encoding='euc-kr') as f:
+    for item in itm_text:
         f.write("%s\n" % item)
 print("EXPORTING COMPLETE.")
