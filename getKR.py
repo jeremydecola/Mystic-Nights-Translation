@@ -14,7 +14,6 @@ item_desc = re.findall(b'\x44\x45\x53\x43\x52\x49\x50\x54\x49\x4F\x4E\x20\x22(.*
 item_use = re.findall(b'\x55\x53\x45\x5F\x4D\x45\x53\x53\x41\x47\x45(.*)\x2E', buffer, re.MULTILINE)
 doc_text = re.findall(b'\x22(.*)\x22', buffer2, re.MULTILINE)
 itm_text = re.findall(b'\x22(.*)\x22', buffer3, re.MULTILINE)
-print(doc_text.__len__())
 
 print ("DECODING...")
 
