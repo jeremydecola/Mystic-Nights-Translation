@@ -1,0 +1,1 @@
+for %%X in (*.*) do texter -c "%%X" -tm
