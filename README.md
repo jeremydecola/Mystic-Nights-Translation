@@ -12,17 +12,14 @@ I hope you enjoy!
 ## Prerequisites
 
 * A copy of the Mystic Nights disc image (.iso) 
-* xpert PS2/PSP .iso extraction/rebuilding tool
+* TOOLS/xpert (PS2/PSP .iso extraction/rebuilding tool)
 * SCKA_200.55 (mapping, menu and system messages)
-* SUBSYS.RES (dialogue, item names, item descriptions)
-* COMPANY.RES (warning screen)
-* DOCUMENT.RES and ITEM.RES (item and document text)
+* RES/SUBSYS.RES (dialogue, item names, item descriptions)
+* RES/UI/COMPANY.RES (warning screen)
+* RES/UI/DOCUMENT.RES and RES/UI/ITEM.RES (item and document text)
 * ST01-03/ and ST04-07/ (level-specific item mapping)
 
 ## Instructions
-
-The game's text is included in the subsystem resource file (SUBSYS.RES)
-The game's warning screen graphics are included in the "company" resource file (COMPANY.RES)
 
 1) Launch "xpert.exe".
 2) Select the PS2 CdDvD5 plugin.
@@ -30,14 +27,26 @@ The game's warning screen graphics are included in the "company" resource file (
 4) Click on "Extract LBA".
 5) Click on "Extract File".
 6) Navigate to the folder it extracted the .iso to 
-7) Navigate to the "RES" directory and replace the "SUBSYS.RES" with mine.
-8) Navigate to the "RES/UI" directory and replace the "COMPANY.RES" with mine.
-9) Click on "Rebuild File"
-10) Click on "Rebuild LBA"
+7) In the root folder, replace "SCKA_200.55" with mine.
+8) Navigate to the "RES" directory and replace the "SUBSYS.RES" with mine.
+9) Navigate to the "RES/SCENE" directory and replace the "ST01-03" and "ST04-07" with mine.
+10) Navigate to the "RES/UI" directory and replace the "COMPANY.RES", "ITEM.RES" and "DOCUMENT.RES" with mine.
+11) Click on "Rebuild File".
+12) Click on "Rebuild LBA".
 
 Congratulations. xpert should have generated a new .iso image complete with my English translation!
 
 ## *PROGRESS*
+
+### 0.4.0
+COMPLETED SYSTEM/MENUS WITH THE EXCEPTION OF NETWORK FEATURES.
+DOCUMENTS UNDERWAY.  
+* TEXT: 100% COMPLETE 
+* ITEMS: 100% COMPLETE
+* SYSTEM/MENUS: 100% COMPLETE 
+* SCENE FILE MAPPING : 100% COMPLETE
+* DOCUMENTS: 0% COMPLETE
+[NETWORK features partially translated.]
 
 ### 0.3.3
 TRANSLATED SETTINGS SCREEN (OPTIONS > MORE). 
