@@ -39,6 +39,13 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.3.2
+TRANSLATED CONTROLS SCREEN. 
+* TEXT: 100% COMPLETE 
+* ITEMS: 100% COMPLETE
+* SYSTEM/MENUS: 95% COMPLETE 
+* SCENE FILE MAPPING : 100% COMPLETE
+
 ### 0.3.1
 MAJORITY OF SYSTEM/MENUS COMPLETE. 
 * TEXT: 100% COMPLETE 
