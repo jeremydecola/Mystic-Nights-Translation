@@ -291,3 +291,10 @@ Date: [24/06/2019]
 05:36:24 - [4. Rebuild LBA]
 05:36:24 - Rebuilding LBA done
 05:36:24 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [27/01/2020]
+******************
+02:58:03 - [1. Extract LBA] 
+02:58:03 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+02:58:05 - Extracting LBA done 
+02:58:05 - C:\USERS\JEREM\DESKTOP\MYSTICNIGHTS\NEW-MYSTICNIGHTS.ISO-LSN.TXT
