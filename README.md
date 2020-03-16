@@ -9,6 +9,8 @@ As a big fan of the survival horror genre, I took it upon myself to translate th
 
 I hope you enjoy!
 
+<img src="GRAPHICS/COVERART.png" width=100%>
+
 ## Prerequisites
 
 * A copy of the Mystic Nights disc image (.iso) 
