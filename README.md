@@ -40,6 +40,15 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.4.2
+DOCUMENTS PROGRESSING WELL. PLOT ELEMENTS VALIDATED WITH NATIVE SPEAKER AND AESTHETIC CHANGES TO CERTAIN WORDS. (Vampyre -> Vampire / Project Vampyre -> Project Ancient / Palmata -> Palmate Leaves / Ancient Vampyres -> Ancients)  
+* TEXT: 100% COMPLETE 
+* ITEMS: 100% COMPLETE
+* SYSTEM/MENUS: 100% COMPLETE 
+* SCENE FILE MAPPING : 100% COMPLETE
+* DOCUMENTS: 50% COMPLETE 
+* NETWORK features partially translated.
+
 ### 0.4.1
 DOCUMENTS UNDERWAY. DISCOVERED DOCUMENT MAPPING. 
 * TEXT: 100% COMPLETE 
