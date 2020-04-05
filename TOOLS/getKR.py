@@ -1,10 +1,10 @@
 import re
 
-with open('C:/Users/jerem/Desktop/MN_Translation/Mystic-Nights-Translation/SUBSYS.RES','rb') as data: #open file filename in read mode
+with open('D:/MN/SUBSYS.RES','rb') as data: #open file filename in read mode
     buffer = data.read()#read content
-with open('C:/Users/jerem/Desktop/MN_Translation/DOC.RES','rb') as datad:
+with open('D:/MN/DOCUMENT.RES','rb') as datad:
     buffer2 = datad.read()# read content
-with open('C:/Users/jerem/Desktop/MN_Translation/ITM.RES', 'rb') as datai:
+with open('D:/MN/ITEM.RES', 'rb') as datai:
     buffer3 = datai.read()  # read content
 
 text = re.findall(b'\x20\x54\x45\x58\x54\x20\x22(.*)\x22', buffer, re.MULTILINE)
@@ -28,16 +28,23 @@ for i in range(len(item_desc)):
 for i in range(len(item_use)):
   item_use[i] = item_use[i].decode('euc-kr')
 for i in range(len(doc_text)):
-  doc_text[i] = doc_text[i].decode('euc-kr')
+  try:
+    doc_text[i] = doc_text[i].decode('euc-kr')
+  except:
+    pass
+
 for i in range(len(itm_text)):
-  itm_text[i] = itm_text[i].decode('euc-kr')
+  try:
+    itm_text[i] = itm_text[i].decode('euc-kr')
+  except:
+    pass
 
 print("DECODING COMPLETE.\nEXPORTING TO LOGS...")
 
-with open('C:/Users/jerem/Desktop/MN_Translation/fulltext.txt', 'w', encoding='euc-kr') as f:
+with open('D:/MN/fulltext.txt', 'w', encoding='euc-kr') as f:
     for item in text:
         f.write("%s\n" % item)
-with open('C:/Users/jerem/Desktop/MN_Translation/fullitems.txt', 'w', encoding='euc-kr') as f:
+with open('D:/MN/fullitems.txt', 'w', encoding='euc-kr') as f:
     for item in item_lists:
         f.write("ITEM LIST: ")
         f.write("%s\n" % item)
@@ -50,10 +57,10 @@ with open('C:/Users/jerem/Desktop/MN_Translation/fullitems.txt', 'w', encoding='
     for item in item_use:
         f.write("ITEM USE: ")
         f.write("%s\n" % item)
-with open('C:/Users/jerem/Desktop/MN_Translation/doclist.txt', 'w', encoding='euc-kr') as f:
+with open('D:/MN/doclist.txt', 'w', encoding='euc-kr') as f:
     for item in doc_text:
         f.write("%s\n" % item)
-with open('C:/Users/jerem/Desktop/MN_Translation/itemreslist.txt', 'w', encoding='euc-kr') as f:
+with open('D:/MN/itemreslist.txt', 'w', encoding='euc-kr') as f:
     for item in itm_text:
         f.write("%s\n" % item)
 print("EXPORTING COMPLETE.")
