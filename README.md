@@ -42,6 +42,7 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ### 0.9.2-beta 
 Fixed references for item names that were changed in 0.5.0 in scene file maps.
+
 *유충 관찰 보고서 (Larvae Report -> Larva Report)
 4 MATCHES FOUND.
 SUBSYS.RES, ST0302_3.RES, DOCUMENT.RES, ITEM.RES
