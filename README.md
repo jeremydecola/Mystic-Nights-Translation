@@ -40,6 +40,9 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.0-beta
+TRANSLATION COMPLETE! 
+
 ### 0.5.0
 DOCUMENT RESOURCE FILE TRANSLATION COMPLETE!
 CHANGES MUST BE REPLICATED IN THE ITEM RESOURCE FILE.
