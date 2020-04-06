@@ -40,6 +40,29 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.2-beta 
+Fixed references for item names that were changed in 0.5.0 in scene file maps.
+*유충 관찰 보고서 (Larvae Report -> Larva Report)
+4 MATCHES FOUND.
+SUBSYS.RES, ST0302_3.RES, DOCUMENT.RES, ITEM.RES
+
+*동력실 근무 명령서 (Power Room Order -> Bloody Schedule)
+4 MATCHES FOUND.
+SUBSYS.RES, ST0501_2.RES, DOCUMENT.RES, ITEM.RES
+
+*근무지 이탈 주의 메모 (Deserter's Memo -> Friendly Advice)
+4 MATCHES FOUND.
+SUBSYS.RES, ST0501_2.RES, DOCUMENT.RES, ITEM.RES
+
+*감사 지침문 (User Manual -> Decree)
+4 MATCHES FOUND.
+SUBSYS.RES, ST0403_2.RES, DOCUMENT.RES, ITEM.RES
+
+### 0.9.1-beta
+Fixed Dialogue to reflect changes:
+Project Vampyre -> Project Ancient
+Vampyre -> Vampire
+
 ### 0.9.0-beta
 TRANSLATION COMPLETE! 
 
