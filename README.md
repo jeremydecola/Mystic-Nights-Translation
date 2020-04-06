@@ -40,6 +40,21 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.5.0
+DOCUMENT RESOURCE FILE TRANSLATION COMPLETE!
+CHANGES MUST BE REPLICATED IN THE ITEM RESOURCE FILE.
+Change of Item Names: 
+Larvae Report -> Larva Report
+Power Room Order -> Bloody Schedule 
+Deserter’s Memo > Friendly Advice
+User Manual > Decree
+* TEXT: 100% COMPLETE 
+* ITEMS: 100% COMPLETE
+* SYSTEM/MENUS: 100% COMPLETE 
+* SCENE FILE MAPPING : 100% COMPLETE
+* DOCUMENTS: 100% COMPLETE 
+* NETWORK features partially translated.
+
 ### 0.4.2
 DOCUMENTS PROGRESSING WELL. PLOT ELEMENTS VALIDATED WITH NATIVE SPEAKER AND AESTHETIC CHANGES TO CERTAIN WORDS. (Vampyre -> Vampire / Project Vampyre -> Project Ancient / Palmata -> Palmate Leaves / Ancient Vampyres -> Ancients)  
 * TEXT: 100% COMPLETE 
