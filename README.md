@@ -9,7 +9,7 @@ As a big fan of the survival horror genre, I took it upon myself to translate th
 
 I hope you enjoy!
 
-<img src="GRAPHICS/COVERART.png" width=100%>
+<img src="GRAPHICS/COVERART.png" width=50%>
 
 ## Prerequisites
 
