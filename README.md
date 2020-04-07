@@ -43,30 +43,30 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 ## *PROGRESS*
 
 ### 0.9.3-beta
-*Discovered omission where Jennifer's groaning noises were left untranslated.
-*Discovered omission where Room Names appear in Korean when entering rooms. 
-*Fixed bug which caused 'Strong Vest' and 'Medkit (L)' not to be added to inventory in some scenes.
-*Fixed off-screen text : [TIP] Section : PRESS THE *BUTTON* BUTTON -> PRESS *BUTTON* 
-*Fixed Jennifer's lines to better reflect in-game scenario.
-*Fixed 'Memo for Walter' to better reflect in-game scenario. 
-*Fixed bug which caused 'Memo for Walter' page 1 to display with visual artifacts.
+* Discovered omission where Jennifer's groaning noises were left untranslated.
+* Discovered omission where Room Names appear in Korean when entering rooms. 
+* Fixed bug which caused 'Strong Vest' and 'Medkit (L)' not to be added to inventory in some scenes.
+* Fixed off-screen text : [TIP] Section : PRESS THE *BUTTON* BUTTON -> PRESS *BUTTON* 
+* Fixed Jennifer's lines to better reflect in-game scenario.
+* Fixed 'Memo for Walter' to better reflect in-game scenario. 
+* Fixed bug which caused 'Memo for Walter' page 1 to display with visual artifacts.
 
 ### 0.9.2-beta 
 Fixed references for item names that were changed in 0.5.0 in scene file maps.
 
-*유충 관찰 보고서 (Larvae Report -> Larva Report)
+* 유충 관찰 보고서 (Larvae Report -> Larva Report)
 4 MATCHES FOUND.
 SUBSYS.RES, ST0302_3.RES, DOCUMENT.RES, ITEM.RES
 
-*동력실 근무 명령서 (Power Room Order -> Bloody Schedule)
+* 동력실 근무 명령서 (Power Room Order -> Bloody Schedule)
 4 MATCHES FOUND.
 SUBSYS.RES, ST0501_2.RES, DOCUMENT.RES, ITEM.RES
 
-*근무지 이탈 주의 메모 (Deserter's Memo -> Friendly Advice)
+* 근무지 이탈 주의 메모 (Deserter's Memo -> Friendly Advice)
 4 MATCHES FOUND.
 SUBSYS.RES, ST0501_2.RES, DOCUMENT.RES, ITEM.RES
 
-*감사 지침문 (User Manual -> Decree)
+* 감사 지침문 (User Manual -> Decree)
 4 MATCHES FOUND.
 SUBSYS.RES, ST0403_2.RES, DOCUMENT.RES, ITEM.RES
 
