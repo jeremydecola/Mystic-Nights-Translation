@@ -21,7 +21,7 @@ I hope you enjoy!
 * RES/SUBSYS.RES (dialogue, item names, item descriptions)
 * RES/UI/COMPANY.RES (warning screen)
 * RES/UI/DOCUMENT.RES and RES/UI/ITEM.RES (item and document text)
-* ST01-03/ and ST04-07/ (level-specific item mapping)
+* RES/SCENE/ST01-03/ and RES/SCENE/ST04-07/ (level-specific item mapping)
 
 ## Instructions
 
@@ -32,11 +32,9 @@ I hope you enjoy!
 5) Click on "Extract File".
 6) Navigate to the folder it extracted the .iso to 
 7) In the root folder, replace "SCKA_200.55" with mine.
-8) Navigate to the "RES" directory and replace the "SUBSYS.RES" with mine.
-9) Navigate to the "RES/SCENE" directory and replace the "ST01-03" and "ST04-07" with mine.
-10) Navigate to the "RES/UI" directory and replace the "COMPANY.RES", "ITEM.RES" and "DOCUMENT.RES" with mine.
-11) Click on "Rebuild File".
-12) Click on "Rebuild LBA".
+8) Copy all files in my "RES" folder into "/RES/" 
+9) Click on "Rebuild File".
+10) Click on "Rebuild LBA".
 
 Congratulations. xpert should have generated a new .iso image complete with my English translation!
 
