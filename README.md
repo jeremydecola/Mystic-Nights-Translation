@@ -42,13 +42,23 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.4-beta
+Adding the null bye (00) instead of the space character (20) removes the trailing white space after an item name. 
+* Fixed 'Memo for Walter' bug by adding an extra page. (Previous fix did not work).
+* Created a bug_report excel table for tracking of ITEMS or DOCUMENTS with problems.
+* Corrected all references to the 'Blade' weapon as 'Knife'. 
+* Fixed various off-screen text issues. 
+* Fixed 'Guidelines', 'Operations', 'Genetics Report' and 'Data Stick 1' which all had visual artifacts due to overflow.
+* Fixed various typos
+* Shortened 'B1 Control Room Key' to 'B1 Control Key' to avoid having letters go off-screen in the ITEMS menu. 
+
 ### 0.9.3-beta
 * Discovered omission where Jennifer's groaning noises were left untranslated.
 * Discovered omission where Room Names appear in Korean when entering rooms. 
 * Fixed bug which caused 'Strong Vest' and 'Medkit (L)' not to be added to inventory in some scenes.
 * Fixed off-screen text : [TIP] Section : PRESS THE *BUTTON* BUTTON -> PRESS *BUTTON* 
 * Fixed Jennifer's lines to better reflect in-game scenario.
-* Fixed 'Memo for Walter' to better reflect in-game scenario. 
+* Fixed 'Memo for Walter' content to better reflect in-game scenario. 
 * Fixed bug which caused 'Memo for Walter' page 1 to display with visual artifacts.
 
 ### 0.9.2-beta 
