@@ -40,8 +40,27 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.5-beta
+* MASSIVE OVERHAUL OF ITEM NAMES AND REMOVAL OF SPACE CHARACTERS. BUG REPORT SPREADSHEET HAS BEEN CLEARED. WILL RESTART PLAYTHROUGH. 
+If the null byte (00) is added in SCKA_200.55 for item names, the item name displays off-center and goes off the screen if too long. 
+As such, the space character (20) should be used for these specific items (mainly weapons). Some weapons were renamed to fit the screen:
+* Vampire Blade -> Butcher
+* Ancient Blade -> Slayer
+* Kaiser Blade -> Reaper
+* Vampire Pistol -> Cobra
+* Ancient Pistol -> Viper
+* Kaiser Pistol -> Venom
+* Vampire Rifle -> Silent Star
+* Ancient Rifle -> Red Rum
+* Kaiser Rifle -> Black Widow
+* Vampire Shot -> Avarice
+* Ancient Shot -> Malice
+* Kaiser Shot -> Envy
+* Light Vest -> Normal Vest
+* Heavy Vest -> Sturdy Vest
+
 ### 0.9.4-beta
-Adding the null bye (00) instead of the space character (20) removes the trailing white space after an item name. 
+Adding the null byte (00) instead of the space character (20) removes the trailing white space after an item name. 
 * Fixed 'Memo for Walter' bug by adding an extra page. (Previous fix did not work).
 * Created a bug_report excel table for tracking of ITEMS or DOCUMENTS with problems.
 * Corrected all references to the 'Blade' weapon as 'Knife'. 
