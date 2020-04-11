@@ -40,6 +40,13 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.6-beta
+Various fixes for off-screen text and removal of unecessary spacing. 
+* Military Strategy Letter -> Letter for Greg
+* Fixed visual artifacts for 'Monica's Note', 'Data Stick 3', 'Letter for Greg', 'Data Stick 4', 'Larva Report' and 'D's Journal'
+* Fixed '%s acquired' spacing aesthetic in SCKA_200.55
+* Fixed a bug which caused 'Experiment Report' and 'W's Diary' to dissapear after pickup. (Introduced in 0.9.5-beta)
+
 ### 0.9.5-beta
 * MASSIVE OVERHAUL OF ITEM NAMES AND REMOVAL OF SPACE CHARACTERS. BUG REPORT SPREADSHEET HAS BEEN CLEARED. WILL RESTART PLAYTHROUGH. 
 If the null byte (00) is added in SCKA_200.55 for item names, the item name displays off-center and goes off the screen if too long. 
