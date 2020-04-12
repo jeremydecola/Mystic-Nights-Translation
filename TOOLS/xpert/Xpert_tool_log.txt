@@ -804,3 +804,69 @@ Date: [10/04/2020]
 08:12:22 - [4. Rebuild LBA]
 08:12:23 - Rebuilding LBA done
 08:12:23 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [12/04/2020]
+******************
+02:31:24 - [1. Extract LBA] 
+02:31:24 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+02:31:25 - Extracting LBA done 
+02:31:25 - D:\MN\MYSTICNIGHTS.ISO-LSN.TXT
+02:31:28 - [2. Extract File]
+02:31:28 - D:\MN\MYSTICNIGHTS.ISO
+02:32:47 - Extracting FILES done
+02:32:47 - Location: All in D:\MN\@MYSTICNIGHTS.ISO
+02:32:47 - 724 File(s) Size : 1693463895 bytes
+02:34:19 - [3. Rebuild File]
+02:34:19 - Please Wait..Calculating File(s) Size 
+02:34:19 - 724 File(s) 1696516096 bytes
+02:34:56 - Rebuilding FILES done
+02:34:56 - D:\MN\NEW-MYSTICNIGHTS.ISO
+02:34:56 - File Size : 1696516096 bytes
+02:34:56 - D:\MN\MYSTICNIGHTS.ISO-relink-LSN.TXT
+02:35:08 - [4. Rebuild LBA]
+02:35:08 - Rebuilding LBA done
+02:35:08 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [12/04/2020]
+******************
+03:01:02 - [1. Extract LBA] 
+03:01:02 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+03:01:03 - Extracting LBA done 
+03:01:03 - D:\MN\MYSTICNIGHTS.ISO-LSN.TXT
+03:01:05 - [2. Extract File]
+03:01:05 - D:\MN\MYSTICNIGHTS.ISO
+03:02:29 - Extracting FILES done
+03:02:29 - Location: All in D:\MN\@MYSTICNIGHTS.ISO
+03:02:29 - 724 File(s) Size : 1693463895 bytes
+03:03:41 - [3. Rebuild File]
+03:03:41 - Please Wait..Calculating File(s) Size 
+03:03:41 - 724 File(s) 1696516096 bytes
+03:04:18 - Rebuilding FILES done
+03:04:18 - D:\MN\NEW-MYSTICNIGHTS.ISO
+03:04:18 - File Size : 1696516096 bytes
+03:04:18 - D:\MN\MYSTICNIGHTS.ISO-relink-LSN.TXT
+03:04:24 - [4. Rebuild LBA]
+03:04:24 - Rebuilding LBA done
+03:04:24 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [12/04/2020]
+******************
+03:16:03 - [1. Extract LBA] 
+03:16:03 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+03:16:04 - Extracting LBA done 
+03:16:04 - D:\MN\MYSTICNIGHTS.ISO-LSN.TXT
+03:16:06 - [2. Extract File]
+03:16:06 - D:\MN\MYSTICNIGHTS.ISO
+03:17:28 - Extracting FILES done
+03:17:28 - Location: All in D:\MN\@MYSTICNIGHTS.ISO
+03:17:28 - 724 File(s) Size : 1693463895 bytes
+03:18:04 - [3. Rebuild File]
+03:18:04 - Please Wait..Calculating File(s) Size 
+03:18:04 - 724 File(s) 1696516096 bytes
+03:18:41 - Rebuilding FILES done
+03:18:41 - D:\MN\NEW-MYSTICNIGHTS.ISO
+03:18:41 - File Size : 1696516096 bytes
+03:18:41 - D:\MN\MYSTICNIGHTS.ISO-relink-LSN.TXT
+03:18:43 - [4. Rebuild LBA]
+03:18:43 - Rebuilding LBA done
+03:18:43 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
