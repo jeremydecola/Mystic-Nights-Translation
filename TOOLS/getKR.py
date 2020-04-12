@@ -43,6 +43,7 @@ print("DECODING COMPLETE.\nEXPORTING TO LOGS...")
 
 with open('D:/MN/fulltext.txt', 'w', encoding='euc-kr') as f:
     for item in text:
+        item = "[" + item + "]"
         f.write("%s\n" % item)
 with open('D:/MN/fullitems.txt', 'w', encoding='euc-kr') as f:
     for item in item_lists:

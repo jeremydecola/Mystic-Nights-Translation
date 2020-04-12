@@ -870,3 +870,25 @@ Date: [12/04/2020]
 03:18:43 - [4. Rebuild LBA]
 03:18:43 - Rebuilding LBA done
 03:18:43 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched
+
+Date: [12/04/2020]
+******************
+04:05:38 - [1. Extract LBA] 
+04:05:38 - Plugin Selected : Shrinker_ps2_psp_CdDvd5_iso_v1.04.epi
+04:05:39 - Extracting LBA done 
+04:05:39 - D:\MN\MYSTICNIGHTS.ISO-LSN.TXT
+04:05:41 - [2. Extract File]
+04:05:41 - D:\MN\MYSTICNIGHTS.ISO
+04:07:00 - Extracting FILES done
+04:07:00 - Location: All in D:\MN\@MYSTICNIGHTS.ISO
+04:07:00 - 724 File(s) Size : 1693463895 bytes
+04:07:48 - [3. Rebuild File]
+04:07:48 - Please Wait..Calculating File(s) Size 
+04:07:48 - 724 File(s) 1696516096 bytes
+04:08:26 - Rebuilding FILES done
+04:08:26 - D:\MN\NEW-MYSTICNIGHTS.ISO
+04:08:26 - File Size : 1696516096 bytes
+04:08:26 - D:\MN\MYSTICNIGHTS.ISO-relink-LSN.TXT
+04:08:31 - [4. Rebuild LBA]
+04:08:32 - Rebuilding LBA done
+04:08:32 - D:\MN\NEW-MYSTICNIGHTS.ISO <- LBA Table Patched

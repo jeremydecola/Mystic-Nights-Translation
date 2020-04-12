@@ -40,6 +40,9 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.8-beta
+MAJOR AESTHETIC UPDATE: Removed all trailing spaces (20) in dialogue and replaced them with null byes (00). 
+
 ### 0.9.7-beta
 'DOCUMENT.RES' contains the text displayed ONLY on pickup of a document. 'ITEM.RES' contains the text displayed when accessing the 'NOTES' section of the menu. 
 * Fixed a bug which caused 'Secrets' to be unobtainable.
