@@ -41,10 +41,10 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 ## *PROGRESS*
 
 ### 0.9.8-beta
-MAJOR AESTHETIC UPDATE: Removed all trailing spaces (20) in dialogue and replaced them with null byes (00). 
+MAJOR AESTHETIC UPDATE: Removed all trailing spaces (20) in dialogue and replaced them with null bytes (00). 
 
 ### 0.9.7-beta
-'DOCUMENT.RES' contains the text displayed ONLY on pickup of a document. 'ITEM.RES' contains the text displayed when accessing the 'NOTES' section of the menu. 
+'DOCUMENT.RES' contains the text displayed ONLY on pickup of a document. 'ITEM.RES' contains the text displayed in documents when accessing them through the 'NOTES' section of the menu. 
 * Fixed a bug which caused 'Secrets' to be unobtainable.
 * Fixed visual artifacts for 'Data Stick (5,7,8,9,11,12,S,S1,S2,B,X)', 'Decree', 'KP's Diary' and 'Friendly Advice'
 * Fixed off-screen text for 'Bloody Schedule', 'Power Guide', 'Secrets', 'Data Stick (3 [pickup only],6,S3,S4)' and 'Letter for Greg'
