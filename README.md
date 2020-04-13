@@ -15,6 +15,18 @@ I hope you enjoy!
 
 Art commission by u/thienpnguyen.
 
+## Acknowledgements 
+
+Reverse engineering this game was quite a challenge and I learned quite a bit thanks to the folks on Reverse Engineering StackExchange. 
+
+As for the translation, none of this would have been possible without the help of my girlfriend who so graciously helped me translate the entire game. 
+
+Finally, I would like to extend a big thank you to u/thienpnguyen who did a fantastic job with the art I commissioned from him. 
+
+Mystic Nights is property of N-Log Soft and SCI Korea. 
+
+I did not develop the xpert tool. Info on xpert can be found at http://xpert2.blogspot.com/2006/.
+
 ## Tips
 
 * This game requires a lot of grinding for ammunition. Skipping enemies and rushing to the next objective may leave you unprepared for the boss fights and is not recommended, even on Easy mode. 
@@ -95,6 +107,9 @@ Art commission by u/thienpnguyen.
 Congratulations. xpert should have generated a new .iso image complete with my English translation!
 
 ## *PROGRESS*
+
+### v1.0.0
+Initial Public Release! 
 
 ### 0.9.12-beta
 MAJOR AESTHETIC UPDATE PART 2: Removed the remaining trailing spaces (20) in cutscenes and replaced them with null bytes (00) after discovering that cutscenes become interactable (skipable) after first playthrough. 
