@@ -84,7 +84,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 ## Prerequisites
 
 * A copy of the Mystic Nights disc image (.iso) 
-* TOOLS/xpert (PS2/PSP .iso extraction/rebuilding tool)
+* xpert (PS2/PSP .iso extraction/rebuilding tool)
 * SCKA_200.55 (mapping, menu and system messages)
 * RES/SUBSYS.RES (dialogue, item names, item descriptions)
 * RES/UI/COMPANY.RES (warning screen)
