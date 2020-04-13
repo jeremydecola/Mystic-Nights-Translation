@@ -96,6 +96,9 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.12-beta
+MAJOR AESTHETIC UPDATE PART 2: Removed the remaining trailing spaces (20) in cutscenes and replaced them with null bytes (00) after discovering that cutscenes become interactable (skipable) after first playthrough. 
+
 ### 0.9.11-beta
 * Multiple Endings discovered
 * Various typographical errors fixed
