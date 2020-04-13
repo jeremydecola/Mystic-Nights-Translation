@@ -12,7 +12,60 @@ I hope you enjoy!
 <p align="center">
   <img src="GRAPHICS/COVERART.png" width=50%>
 </p>
-  
+
+## Tips
+
+* This game requires a lot of grinding for ammunition. Skipping enemies and rushing to the next objective may leave you unprepared for the boss fights and is not recommended, even on Easy mode. 
+* Each enemy type is weak to specific weapon. Exploiting enemy weaknesses is key. 
+* There are two items (Data Stick H and Data Stick B) which affect the endings you can get. It seems there is some kind of function that computes which item can be obtained. Reloading a save just before acquiring the item allowed me to obtain the other one. 
+
+1. ENDING A (SPOILERS)
+<details>
+  <summary>SHOW</summary>
+
+  ```
+  Allen - Good Ending : 
+  * Obtain all notes.
+  * Recieve Data Stick B.
+  * Side with Allen in the fight between Allen and Jennifer. 
+  ```
+</details>
+
+2. ENDING B (SPOILERS)
+<details>
+  <summary>SHOW</summary>
+
+  ```
+  Jennifer - Good Ending : 
+  * Picking up all notes does not affect this specific situation.
+  * Recieve Data Stick H.
+  * Side with Jennifer in the fight between Allen and Jennifer. 
+  ```
+</details>
+
+3. ENDING C (SPOILERS)
+<details>
+  <summary>SHOW</summary>
+
+  ```
+  Allen - Bad Ending : 
+  * OPTION 1: Do not obtain all notes and Recieve Data Stick B.
+  * OPTION 2: Recieve Data Stick H.
+  * Side with Allen in the fight between Allen and Jennifer. 
+  ```
+</details>
+4. ENDING D (SPOILERS)
+<details>
+  <summary>SHOW</summary>
+
+  ```
+  Jennifer - Bad Ending : 
+  * Picking up all notes does not affect this specific situation.
+  * Recieve Data Stick B.
+  * Side with Jennifer in the fight between Allen and Jennifer. 
+  ```
+</details>
+
 ## Prerequisites
 
 * A copy of the Mystic Nights disc image (.iso) 
@@ -40,11 +93,17 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.11-beta
+* Multiple Endings discovered
+* Various typographical errors fixed
+* TOMCAT item aesthetic renaming
+* Fixed visual artifacts for 'Data Stick H'
+
 ### 0.9.10-beta
-VARIOUS TYPOGRAPHICAL ERRRORS FIXED. 
+* Various typographical errors fixed
 
 ### 0.9.9-beta
-VARIOUS TYPOGRAPHICAL ERRRORS FIXED. 
+* Various typographical errors fixed
 
 ### 0.9.8-beta
 MAJOR AESTHETIC UPDATE: Removed all trailing spaces (20) in dialogue and replaced them with null bytes (00). 
