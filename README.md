@@ -9,6 +9,8 @@ As a big fan of the survival horror genre, I took it upon myself to translate th
 
 I hope you enjoy!
 
+If you like my work, feel free to show your support: https://ko-fi.com/jeremydecola
+
 <p align="center">
   <img src="GRAPHICS/COVERART.png" width=50%>  
 </p>
