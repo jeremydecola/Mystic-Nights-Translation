@@ -108,6 +108,10 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 
 Congratulations. xpert should have generated a new .iso image complete with my English translation!
 
+## Bug Reporting
+Please report any bugs or issues (such as off-screen text or typos) to jeremydecola@gmail.com. 
+Screenshots would be appreciated. 
+
 ## *PROGRESS*
 
 ### v1.0.0
