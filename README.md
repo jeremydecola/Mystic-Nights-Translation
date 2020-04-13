@@ -40,6 +40,9 @@ Congratulations. xpert should have generated a new .iso image complete with my E
 
 ## *PROGRESS*
 
+### 0.9.10-beta
+VARIOUS TYPOGRAPHICAL ERRRORS FIXED. 
+
 ### 0.9.9-beta
 VARIOUS TYPOGRAPHICAL ERRRORS FIXED. 
 
