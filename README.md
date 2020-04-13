@@ -10,8 +10,10 @@ As a big fan of the survival horror genre, I took it upon myself to translate th
 I hope you enjoy!
 
 <p align="center">
-  <img src="GRAPHICS/COVERART.png" width=50%>
+  <img src="GRAPHICS/COVERART.png" width=50%>  
 </p>
+
+Art commission by u/thienpnguyen.
 
 ## Tips
 
