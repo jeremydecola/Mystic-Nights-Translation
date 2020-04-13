@@ -16,7 +16,7 @@ I hope you enjoy!
 ## Tips
 
 * This game requires a lot of grinding for ammunition. Skipping enemies and rushing to the next objective may leave you unprepared for the boss fights and is not recommended, even on Easy mode. 
-* Each enemy type is weak to specific weapon. Exploiting enemy weaknesses is key. 
+* Each enemy type is weak to a specific weapon type. Exploiting enemy weaknesses is key to ensuring your survival. 
 * There are two items (Data Stick H and Data Stick B) which affect the endings you can get. It seems there is some kind of function that computes which item can be obtained. Reloading a save just before acquiring the item allowed me to obtain the other one. 
 
 1. ENDING A (SPOILERS)
@@ -54,6 +54,7 @@ I hope you enjoy!
   * Side with Allen in the fight between Allen and Jennifer. 
   ```
 </details>
+
 4. ENDING D (SPOILERS)
 <details>
   <summary>SHOW</summary>
