@@ -25,7 +25,7 @@ As for the translation, none of this would have been possible without the help o
 
 Finally, I would like to extend a big thank you to u/thienpnguyen who did a fantastic job with the art I commissioned from him. 
 
-Mystic Nights is property of N-Log Soft and SCI Korea. 
+Mystic Nights is property of N-Log Soft and SCE Korea. 
 
 I did not develop the xpert tool. Info on xpert can be found at http://xpert2.blogspot.com/2006/.
 
