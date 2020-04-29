@@ -114,6 +114,10 @@ Screenshots would be appreciated.
 
 ## *PROGRESS*
 
+### v1.0.1
+Typographical Errors Fixed. 
+Credit to Smiles and Daniel Rain (YouTube). 
+
 ### v1.0.0
 Initial Public Release! 
 
