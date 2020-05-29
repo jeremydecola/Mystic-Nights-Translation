@@ -9,6 +9,9 @@ As a big fan of the survival horror genre, I took it upon myself to translate th
 
 I hope you enjoy!
 
+The gentlemen at cdromance have gone through the trouble uploading a pre-patched copy of the game.
+Download: https://cdromance.com/ps2-iso/mystic-nights-english-patched/
+
 If you like my work, feel free to show your support: https://ko-fi.com/jeremydecola
 
 <p align="center">
