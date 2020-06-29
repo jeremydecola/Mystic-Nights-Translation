@@ -118,9 +118,9 @@ Screenshots would be appreciated.
 ## *PROGRESS*
 ### v1.1.0
 Big thanks to Reed Armstrong for pointing out a vast majority of the mistakes in my translation. 
-*A: Spelling mistakes fixed
-*B: Grammatical errors fixed
-*C: Offscreen text and awkward line breaking fixed. 
+* A: Spelling mistakes fixed
+* B: Grammatical errors fixed
+* C: Offscreen text and awkward line breaking fixed. 
 
 ### v1.0.1
 Typographical Errors Fixed. 
