@@ -45,7 +45,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   ```
   Allen - Good Ending : 
   * Obtain all notes.
-  * Recieve Data Stick B.
+  * Receive Data Stick B.
   * Side with Allen in the fight between Allen and Jennifer. 
   ```
 </details>
@@ -57,7 +57,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   ```
   Jennifer - Good Ending : 
   * Picking up all notes does not affect this specific situation.
-  * Recieve Data Stick H.
+  * Receive Data Stick H.
   * Side with Jennifer in the fight between Allen and Jennifer. 
   ```
 </details>
@@ -69,7 +69,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   ```
   Allen - Bad Ending : 
   * OPTION 1: Do not obtain all notes and Recieve Data Stick B.
-  * OPTION 2: Recieve Data Stick H.
+  * OPTION 2: Receive Data Stick H.
   * Side with Allen in the fight between Allen and Jennifer. 
   ```
 </details>
@@ -81,7 +81,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   ```
   Jennifer - Bad Ending : 
   * Picking up all notes does not affect this specific situation.
-  * Recieve Data Stick B.
+  * Receive Data Stick B.
   * Side with Jennifer in the fight between Allen and Jennifer. 
   ```
 </details>
@@ -116,10 +116,15 @@ Please report any bugs or issues (such as off-screen text or typos) to jeremydec
 Screenshots would be appreciated. 
 
 ## *PROGRESS*
+### v1.1.0
+Big thanks to Reed Armstrong for pointing out a vast majority of the mistakes in my translation. 
+*A: Spelling mistakes fixed
+*B: Grammatical errors fixed
+*C: Offscreen text and awkward line breaking fixed. 
 
 ### v1.0.1
 Typographical Errors Fixed. 
-Credit to Smiles and Daniel Rain (YouTube). 
+Credit to Reed Armstrong and Daniel Rain (YouTube). 
 
 ### v1.0.0
 Initial Public Release! 
