@@ -116,6 +116,11 @@ Please report any bugs or issues (such as off-screen text or typos) to jeremydec
 Screenshots would be appreciated. 
 
 ## *PROGRESS*
+### v1.2.0
+Finished translating NETWORK GAME (multiplayer) components and fixed various bugs.
+* Fixed a major issue causing the inability to create new Mystic Nights save data on the PS2 Memory Card. 
+* Translated Multiplayer menus, EULA and NETSUB.RES
+
 ### v1.1.0
 Big thanks to Reed Armstrong for pointing out a vast majority of the mistakes in my translation. 
 * A: Spelling mistakes fixed
