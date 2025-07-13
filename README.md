@@ -85,10 +85,30 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   * Side with Jennifer in the fight between Allen and Jennifer. 
   ```
 </details>
+## How to install the patch (New xdelta method)
+### Prerequisites
 
-## Prerequisites
+* A copy of the original Mystic Nights disc image (.iso) 
+* xdelta3 or xdeltaUI
+* PATCH/Mystic_Nights_English_vX_X_X.xdelta (the xdelta patch file)
 
-* A copy of the Mystic Nights disc image (.iso) 
+### Instructions
+
+1) Launch "xdeltaUI.exe".
+2) Make sure you are on the "Apply Patch" tab.
+3) Click on "Patch" > Navigate to and select the .xdelta file.
+4) Click on "Source File" > Navigate to and select the original Mystic Nights .iso file.
+5) Click on "Output File" > Navigate to where you want the output file to be stored and enter the desired name. Ex: mysticnights_patched.iso.
+6) Click on "Patch".
+
+If you want to use xdelta3 through command line/terminal:
+
+xdelta3.exe -d -s original.iso my_translation_patch.xdelta translated.iso
+
+## How to install the patch (OLD METHOD with xpert tool)
+### Prerequisites
+
+* A copy of the original Mystic Nights disc image (.iso) 
 * xpert (PS2/PSP .iso extraction/rebuilding tool)
 * SCKA_200.55 (mapping, menu and system messages)
 * RES/SUBSYS.RES (dialogue, item names, item descriptions)
@@ -96,7 +116,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 * RES/UI/DOCUMENT.RES and RES/UI/ITEM.RES (item and document text)
 * RES/SCENE/ST01-03/ and RES/SCENE/ST04-07/ (level-specific item mapping)
 
-## Instructions
+### Instructions
 
 1) Launch "xpert.exe".
 2) Select the PS2 CdDvD5 plugin.
@@ -118,8 +138,12 @@ Screenshots would be appreciated.
 ## *PROGRESS*
 ### v1.2.0
 Finished translating NETWORK GAME (multiplayer) components and fixed various bugs.
-* Fixed a major issue causing the inability to create new Mystic Nights save data on the PS2 Memory Card. 
+* Fixed a major issue causing the inability to create new Mystic Nights save data on the PS2 Memory Card.
+* Now using xdelta3 for patching. See updated instructions.
 * Translated Multiplayer menus, EULA and NETSUB.RES
+* Corrected an error where I accidentally swapped Sturdy Vest with Normal Vest in enemy drop tables.
+* Patched MACRO character limit to 42 instead of 20 characters.
+  * SCKA_200.55 : address 001175A8 (00217528) - 0x15 (21) changed to 0x2B (43)
 
 ### v1.1.0
 Big thanks to Reed Armstrong for pointing out a vast majority of the mistakes in my translation. 
