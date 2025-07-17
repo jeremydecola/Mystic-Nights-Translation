@@ -103,7 +103,9 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 
 If you want to use xdelta3 through command line/terminal:
 
+```sh
 xdelta3.exe -d -s original.iso my_translation_patch.xdelta translated.iso
+```
 
 ## How to install the patch (OLD METHOD with xpert tool)
 ### Prerequisites
@@ -136,6 +138,9 @@ Please report any bugs or issues (such as off-screen text or typos) to jeremydec
 Screenshots would be appreciated. 
 
 ## *PROGRESS*
+### v1.2.1
+* Patched server IP from 211.233.10.5 to 207.148.21.93
+
 ### v1.2.0
 Finished translating NETWORK GAME (multiplayer) components and fixed various bugs.
 * Fixed a major issue causing the inability to create new Mystic Nights save data on the PS2 Memory Card.
