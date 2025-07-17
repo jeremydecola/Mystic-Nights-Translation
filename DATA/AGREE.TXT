@@ -1,0 +1,260 @@
+Chapter 1: General Provisions
+
+Article 1 (Purpose)
+
+These Terms and Conditions ("Terms") are
+established to specifically set forth the terms,
+procedures, obligations, responsibilities, and
+other necessary matters concerning the use of the
+Mystic Nights game and content (hereinafter
+"Service") provided by NLog Soft Co., Ltd.
+(hereinafter "Company") to users (hereinafter
+"Members").
+
+Article 2 (Effectiveness and Amendment of Terms)
+
+1. These Terms take effect when stated at the
+   start of the Service and when Members agree
+   to the contents herein.
+2. The Company may amend these Terms without
+   prior notice within reasonable limits, as
+   long as it does not violate relevant laws.
+   The amended Terms become effective when
+   announced on the Service website
+   (www.mysticnights.co.kr). If the revisions
+   concern important matters affecting Members'
+   rights or obligations, they will be notified
+   in advance.
+3. If a Member does not agree with the amended
+   Terms, they may discontinue using the Service
+   and request account termination. If the Member
+   continues to use the Service for seven days
+   after the effective date of changes, they are
+   deemed to have agreed to the amendments.
+4. Agreeing to these Terms implies agreeing to
+   regularly visit the Service website to check
+   for changes. The Company is not liable for any
+   damages resulting from a Member's failure to
+   review changes to these Terms.
+
+Article 3 (Supplementary Provisions)
+
+For matters not specified in these Terms, the
+Service-specific terms, the Framework Act on
+Telecommunications, the Telecommunications
+Business Act, the Act on Promotion of
+Information and Communications Network
+Utilization and Information Protection, the
+Youth Protection Act, and other relevant laws
+of the Republic of Korea shall apply.
+
+Article 4 (Definitions)
+
+The definitions of terms used in these Terms are
+as follows:
+
+1. "Member" or "User" refers to a person who has
+   entered into a Service contract with the
+   Company and has been assigned a user ID.
+2. "Service Contract" refers to the agreement
+   entered into with the Company to use the
+   Service.
+3. "User ID" refers to a unique combination of
+   letters and numbers selected by the Member and
+   assigned by the Company to identify the Member
+   and facilitate Service use.
+4. "Password" refers to a combination of letters
+   and numbers selected by the Member to confirm
+   their identity and protect their rights and
+   interests.
+5. "Termination" refers to the cancellation of
+   the Service contract by the Company or Member.
+
+
+Chapter 2: Service Use Agreement
+
+Article 5 (Formation of the Service Use Agreement)
+
+1. The Service use agreement is established when
+   a user agrees to these Terms and applies for
+   use, and the Company approves the application.
+2. Agreement to these Terms is considered given
+   by pressing the "Agree" button in the game
+   during Service use.
+
+Article 6 (Approval and Restriction of Application)
+
+1. The Company, in principle, grants use of the
+   Service in the order of application if there
+   are no business or technical obstacles.
+2. The Company may defer approval of the Service
+   use application until the following reasons are
+   resolved:
+   1) If there is insufficient facility capacity
+   2) If there are technical difficulties
+   3) If other reasons attributable to the
+      Company make approval difficult
+
+Article 7 (Assignment and Change of User ID)
+
+1. The Company assigns a User ID according to
+   these Terms.
+2. In principle, the User ID cannot be changed.
+   If it must be changed for unavoidable reasons,
+   the existing ID must be terminated and a new
+   one registered.
+3. Members are responsible for managing their
+   User ID and password. The Company is not
+   responsible for any damages arising from
+   improper management or unauthorized use by
+   third parties.
+
+
+Chapter 3: Obligations of the Parties
+
+Article 8 (Obligations of the Company)
+
+1. If the Company objectively recognizes that a
+   Member's opinion or complaint is justified,
+   it will promptly address it in accordance with
+   the customer complaint handling policy. If
+   immediate handling is not possible, the reason
+   and schedule will be communicated to the User.
+
+Article 9 (Obligations of Members)
+
+1. Members must comply with these Terms, all
+   rules set by the Company, notices, and
+   relevant laws, and must not interfere with
+   the Company's operations or damage its
+   reputation.
+2. Except for cases where the Company is liable
+   under relevant laws or its privacy policy,
+   Members are responsible for all consequences
+   arising from poor management or unauthorized
+   use of their assigned ID and password.
+3. Members may not use the Service for business
+   activities without the prior approval of the
+   Company. The Company is not responsible for
+   the results of such business activities.
+   Members are liable for any damage caused to
+   the Company through such activities, and the
+   Company may restrict Service use and claim
+   damages through legal procedures.
+
+
+Chapter 4: Use of Service
+
+Article 10 (Service Hours)
+
+1. The Service is, in principle, available 24
+   hours a day, 365 days a year, unless there
+   are special business or technical reasons.
+   The Company may suspend the Service
+   temporarily for regular inspections,
+   expansion, or replacement at times
+   designated by the Company.
+2. The Company may temporarily suspend the
+   Service without notice due to urgent system
+   inspection, expansion, or replacement, or
+   may discontinue the current Service for
+   reasons deemed appropriate. In such cases,
+   the reason and period will be announced to
+   Members before or after the fact.
+3. In case of a national emergency, blackout,
+   facility failure, or Service congestion,
+   the Company may restrict or suspend all or
+   part of the Service. Members will be notified
+   of the reason and duration before or after.
+
+Article 11 (Service Restrictions)
+
+1. The Company may restrict Service use without
+   prior notice if a Member:
+   1) Uses a vulgar or offensive ID
+   2) Severely insults or disrupts other users
+   3) Damages or intentionally interferes with
+      the Service
+   4) Otherwise disrupts normal Service operation
+   5) Is subject to corrective action by public
+      institutions, such as the Information and
+      Communications Ethics Committee
+   6) Violates these Terms or other Company rules
+   7) Commits acts in violation of relevant laws
+
+Article 12 (Termination of Use)
+
+1. The Company considers the Service terminated
+   for a Member if:
+   1) The account has not logged in for over
+      three months
+   In such cases, the Company may change or
+   delete game information for the account.
+
+
+Chapter 5: Disclaimers and Miscellaneous
+
+Article 13 (Disclaimer)
+
+1. The Company is not liable for failure to
+   provide the Service due to force majeure,
+   such as natural disasters or war.
+2. The Company is not liable for damages if the
+   common carrier suspends or fails to provide
+   telecommunications services.
+3. The Company is not liable for damages
+   resulting from maintenance, replacement,
+   inspection, or construction of Service
+   equipment.
+4. The Company is not liable for any Service
+   use disability or damage caused by the Member.
+5. The Company is not liable for any loss of
+   expected profits by Members from using the
+   Service.
+6. The Company is not responsible for any mental
+   damages suffered by Members due to other users
+   while using the Service.
+7. The Company is not obligated to intervene in
+   disputes between Members or between Members
+   and third parties via the Service, nor is it
+   liable for resulting damages.
+8. The Company is not liable for any damages
+   arising from the use of free services
+   provided to Members.
+
+Article 14 (Dispute Resolution)
+
+If a dispute arises regarding personal
+information, the Company or the customer may
+request resolution by the Personal Information
+Dispute Mediation Committee within the Korea
+Internet & Security Agency.
+
+Article 15 (Ownership of Rights)
+
+1. Intellectual property and other rights
+   relating to the Service, software, images,
+   marks, logos, designs, Service names,
+   information, and trademarks belong to the
+   Company.
+2. Unless explicitly approved by the Company,
+   Members may not use, modify, rent, lend,
+   sell, distribute, create, transfer, license,
+   pledge, or commercially exploit all or part
+   of such properties, nor permit third parties
+   to do so.
+
+Article 16 (Prohibition of Transfer)
+
+Members may not transfer, gift, or pledge their
+right to use the Service or status under this
+agreement to others.
+
+Article 17 (Jurisdiction and Governing Law)
+
+1. If a matter is not specified in these Terms,
+   the relevant laws shall apply.
+2. For disputes arising from Service use, the
+   competent court shall be the court with
+   jurisdiction over the Company's headquarters.
+<END>
