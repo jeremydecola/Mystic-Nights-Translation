@@ -11,6 +11,7 @@ I hope you enjoy!
 
 The gentlemen at cdromance have gone through the trouble of uploading a pre-patched copy of the game.
 Download: https://cdromance.com/ps2-iso/mystic-nights-english-patched/
+** As of 7/17/2025, until further notice, this link is OUTDATED. You cannot use this to play Mystic Nights Online. Please apply patch 1.2.1 to an Original Korean iso to play online! ** 
 
 If you like my work, feel free to show your support: https://ko-fi.com/jeremydecola
 
