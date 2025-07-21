@@ -105,7 +105,7 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 5) Click on "Output File" > Navigate to where you want the output file to be stored and enter the desired name. Ex: mysticnights_patched.iso.
 6) Click on "Patch.
 
-Its a very similar process with Delta Patcher, just hit the COG/GEAR/SETTINGS icon first and make sure "Backup original file" is checked. 
+It's a very similar process with Delta Patcher, just hit the COG/GEAR/SETTINGS icon first and make sure "Backup original file" is checked. 
 
 If you want to use xdelta3 through command line/terminal:
 
