@@ -87,7 +87,9 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
   * Side with Jennifer in the fight between Allen and Jennifer. 
   ```
 </details>
+
 ## How to install the patch (New xdelta method)
+
 ### Prerequisites
 
 * A copy of the original Mystic Nights disc image (.iso) [must be the KOREAN VERSION... not an older english patched version]
