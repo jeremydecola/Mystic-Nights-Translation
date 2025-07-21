@@ -90,8 +90,8 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 ## How to install the patch (New xdelta method)
 ### Prerequisites
 
-* A copy of the original Mystic Nights disc image (.iso) 
-* xdelta3 or xdeltaUI
+* A copy of the original Mystic Nights disc image (.iso) [must be the KOREAN VERSION... not an older english patched version]
+* xdeltaUI, Delta Patcher or just xdelta3 via cmd line. I have personally tested xdeltaUI and Delta Patcher which are both available on romhacking.net - I can't vouch for anything else
 * PATCH/Mystic_Nights_English_vX_X_X.xdelta (the xdelta patch file)
 
 ### Instructions
@@ -101,7 +101,9 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 3) Click on "Patch" > Navigate to and select the .xdelta file.
 4) Click on "Source File" > Navigate to and select the original Mystic Nights .iso file.
 5) Click on "Output File" > Navigate to where you want the output file to be stored and enter the desired name. Ex: mysticnights_patched.iso.
-6) Click on "Patch".
+6) Click on "Patch.
+
+Its a very similar process with Delta Patcher, just hit the COG/GEAR/SETTINGS icon first and make sure "Backup original file" is checked. 
 
 If you want to use xdelta3 through command line/terminal:
 
