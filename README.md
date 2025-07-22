@@ -94,6 +94,8 @@ I did not develop the xpert tool. Info on xpert can be found at http://xpert2.bl
 * xdeltaUI, Delta Patcher or just xdelta3 via cmd line. I have personally tested xdeltaUI and Delta Patcher which are both available on romhacking.net - I can't vouch for anything else
 * PATCH/Mystic_Nights_English_vX_X_X.xdelta (the xdelta patch file)
 
+I've had a few people tell me that the patching does not work so I re-tested on several systems with fresh downloads of all relevant files/tools. It definitely is working if you use xdeltaUI or DeltaPatcher from romhacking.net along with my v1.2.1 xdelta patch and a KOREAN clean copy of the game. If it is not working for you, please link me the exact version of the tool you are using and I'll debug it with you! Thanks. 
+
 ### Instructions
 
 1) Launch "xdeltaUI.exe".
